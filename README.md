@@ -1,5 +1,5 @@
 # Jurnal Modul 02
 
-NIM: 
+NIM: 6706213081
 
-Nama: 
+Nama: Philip Amadeo Mandey
